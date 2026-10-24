@@ -1,8 +1,0 @@
-{
-  "name": "auxilio-vtzim-key-server",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Servidor compartilhado de emissão e validação de chaves VTZIM",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
